@@ -27,6 +27,7 @@ using System.Linq;
 using System.Reflection;
 using System.Text.RegularExpressions;
 using Excel;
+using ExcelDataReader;
 
 namespace Excel.Helper
 {
